@@ -1,2 +1,2 @@
-# website
-website with 5 pages(college lab)
+# Web_site
+Website with 5 pages(college project)
